@@ -50,6 +50,8 @@ A set of KSU modules for fixing GNSS HAL operation and improving A-GPS/standard 
 - **Outdoors / near window**: expected accuracy of 3–10 m and 10+ satellites.  
 - **SELinux logs** (`dmesg | grep denied`) cleared of critical GNSS-related denials.  
 
+🎥 **Test video:** [Watch on YouTube](https://youtu.be/F7PhC6nSPhc)
+
 ---
 
 ## 📝 License
