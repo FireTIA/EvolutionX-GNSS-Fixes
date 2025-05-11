@@ -1,3 +1,7 @@
+> 📘 **English version available!**  
+> Please refer to `readme_en.md` for the English translation of this README.  
+> Choose the file and happy reading!
+
 # GNSS & GPS Fix Modules for EvolutionX 10.2 (Android 15) on Poco F4 5G (munch)
 
 Набор KSU-модулей для исправления работы GNSS HAL и улучшения A-GPS/стандарного GPS на кастомной прошивке EvolutionX 10.2 от @AnkitSavani для Poco F4 5G (кодовое имя: `munch`).
