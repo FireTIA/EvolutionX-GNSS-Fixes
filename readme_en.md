@@ -7,6 +7,17 @@ A set of KSU modules for fixing GNSS HAL operation and improving A-GPS/standard 
 
 ---
 
+## 📦 Included Modules
+
+- `FixGPS_KSU.zip` — GNSS configuration (includes `gps.conf`, SUPL/XTRA, A-GPS settings)
+- `FixGNSS_SELinux_KSU_v3.zip` — SELinux rules to unlock GNSS HAL
+
+> ⚠️ **Note:** The `FixGPS_KSU.zip` module is optimized for the **Russia / CIS** region.  
+> It uses Russian NTP and SUPL servers to ensure the fastest GPS setup.  
+> For use in other regions, you are advised to manually edit the `gps.conf` file.
+
+---
+
 ## 📱 Supported versions and kernels
 
 - **ROM**: EvolutionX 10.2 (Android 15) by @AnkitSavani  
