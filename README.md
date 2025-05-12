@@ -1,5 +1,5 @@
 > 📘 **English version available!**  
-> Please refer to `readme_en.md` for the English translation of this README.  
+> Please refer to `readme_en.md` for the English translation of this README.(Old version)  
 > Choose the file and happy reading!
 
 # GNSS & GPS Fix Modules for EvolutionX 10.2 (Android 15) on Poco F4 5G (munch)
