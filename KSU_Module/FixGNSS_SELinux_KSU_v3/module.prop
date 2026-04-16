@@ -1,0 +1,6 @@
+id=fixgnss_sepolicy
+name=Fix GNSS SELinux Rule (Full)
+version=1.2
+versionCode=3
+author=FireTIA, o4-mini
+description=Adds SELinux rules for GNSS HAL and hal_power_default capabilities

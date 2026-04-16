@@ -1,0 +1,6 @@
+id=fixgps
+name=Fix GPS GNSS Config
+version=1.0
+versionCode=1
+author=FireTIA, o4-mini
+description=Custom gps.conf for better fix

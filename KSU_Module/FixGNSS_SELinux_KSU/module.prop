@@ -1,0 +1,6 @@
+id=fixgnss_sepolicy
+name=Fix GNSS SELinux Rule
+version=1.0
+versionCode=1
+author=Kers
+description=Adds SELinux allow rule for GNSS HAL to read vendor_pd_locater_dbg_prop

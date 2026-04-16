@@ -1,0 +1,5 @@
+# Разрешить GNSS HAL читать debug prop-файл
+allow vendor_hal_gnss_qti vendor_pd_locater_dbg_prop:file read;
+
+# Разрешить HAL Power Default использовать capability dac_override
+allow hal_power_default hal_power_default:capability dac_override;
